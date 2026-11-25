@@ -10,7 +10,7 @@ class AppButton extends StatelessWidget {
       onPressed: onPressed ?? () {},
       style: ElevatedButton.styleFrom(
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadiusGeometry.circular(AppSizes.size8.r),
+          borderRadius: BorderRadiusGeometry.circular(AppSizes.small.r),
         ),
         fixedSize: Size.fromHeight(AppSizes.buttonHeight),
         backgroundColor: AppColors.primaryColor,

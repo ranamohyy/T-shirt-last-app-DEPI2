@@ -22,16 +22,16 @@ final void Function()? onTap;
         filled: true,
         fillColor: AppColors.whiteGreyColor,
         border: OutlineInputBorder(
-            borderRadius: BorderRadius.circular(AppSizes.size8.r),
+            borderRadius: BorderRadius.circular(AppSizes.small.r),
             borderSide: BorderSide(color: AppColors.whiteGreyColor,)
 
         ),
         enabledBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(AppSizes.size8.r),
+          borderRadius: BorderRadius.circular(AppSizes.small.r),
           borderSide: BorderSide(color: AppColors.whiteGreyColor,)
         ),
         focusedBorder: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(AppSizes.size8.r),
+          borderRadius: BorderRadius.circular(AppSizes.small.r),
           borderSide: BorderSide(color: AppColors.primaryColor,)
         ),
 

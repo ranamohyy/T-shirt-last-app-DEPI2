@@ -13,7 +13,7 @@ class HomeHeader extends StatelessWidget {
             children: [
               Text("hello".tr(), style: AppStyles.kTextStyle17Black),
 
-              HeightSpace(AppSizes.size12),
+              HeightSpace(AppSizes.medium),
 
               Text(
                 "hello-text".tr(),

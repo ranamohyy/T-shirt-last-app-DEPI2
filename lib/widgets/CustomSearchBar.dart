@@ -6,7 +6,7 @@ class CustomSearchbar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
-      spacing: AppSizes.size8,
+      spacing: AppSizes.small,
       children: [
         Expanded(
           flex: 5,

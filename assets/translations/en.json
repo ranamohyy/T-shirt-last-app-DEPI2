@@ -1,4 +1,11 @@
 {
   "hello": "Hey",
-  "hello-text":"Let's Find Your \nExclusive Outfit"
+  "hello-text":"Let's Find Your \nExclusive Outfit",
+  "categories": "Top Categories",
+
+  "all": "All",
+  "men": "Men",
+  "women": "Women",
+  "kidsWear":"Kids Wear"
+
 }
