@@ -4,6 +4,7 @@ import 'parallel_imports.dart';
 class AppSvg extends StatelessWidget {
   const AppSvg({super.key, required this.image, this.colorFilter});
   final String image;
+
   final ColorFilter? colorFilter;
   @override
   Widget build(BuildContext context) {

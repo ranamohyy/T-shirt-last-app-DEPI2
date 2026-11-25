@@ -31,6 +31,7 @@ class CustomSearchbar extends StatelessWidget {
           ),
         ),
       ],
+
     );
   }
 }
