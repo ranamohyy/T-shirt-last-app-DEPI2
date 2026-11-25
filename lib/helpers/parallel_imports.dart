@@ -6,6 +6,8 @@ export '../../helpers/app_styles.dart';
 export '../../helpers/height_space.dart';
 export '../../helpers/app_button.dart';
 export '../../helpers/app_field.dart';
+export 'package:flutter_svg/svg.dart';
+export 'package:tshirt_last_depi/helpers/app_assets.dart';
 
 //-------packages----------------------------
 export 'package:flutter_screenutil/flutter_screenutil.dart';
