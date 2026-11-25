@@ -26,9 +26,8 @@ class CustomSearchbar extends StatelessWidget {
           child: AppButton(
             onPressed: () {
               },
-            child: Icon(Icons.tune_outlined,
-                size: AppSizes.size25,
-                color: AppColors.whiteColor),
+            child:AppSvg(image: AppAssets.homeIcon,
+            colorFilter: ColorFilter.mode(Colors.white, BlendMode.srcIn),)
           ),
         ),
       ],
